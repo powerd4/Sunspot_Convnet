@@ -1,0 +1,5 @@
+pylama==7.4.3
+pylama-pylint==3.0.1
+pytest==3.2.2
+
+-r requirements.txt
